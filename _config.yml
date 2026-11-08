@@ -1,0 +1,10 @@
+# As-Salam Islamic Center Community – sivun asetukset
+# Ulkoasu, rukousaikojen ja Instagramin haku: https://github.com/suomen-moskeijat/pohja
+title: "As-Salam Islamic Center Community"
+description: "As-Salam Islamic Center Community, Ojahaanrinne 4 K, 01600 Vantaa. Rukousajat, tapahtumat ja toiminta."
+moskeija: as-salam-islamic-center-community     # tiedosto _moskeijat/as-salam-islamic-center-community.md
+
+# Osoite: https://suomen-moskeijat.github.io/as-salam-islamic-center/
+# Omalla verkkotunnuksella (esim. moskeija.fi): url: "https://moskeija.fi" ja baseurl: ""
+url: "https://suomen-moskeijat.github.io"
+baseurl: "/as-salam-islamic-center"
